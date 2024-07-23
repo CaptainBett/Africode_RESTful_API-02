@@ -1,4 +1,4 @@
-<!-- Flask Blog Application
+Flask Blog Application
 A simple blog application built with Flask, SQLAlchemy, and Flask-RESTful, providing a RESTful API for managing users and posts.
 
 Table of Contents
@@ -113,7 +113,7 @@ For any inquiries, please reach out to:
 
 Nicholas: kiprononicholas131@gmail.com
 Rop: aaronrop40@gmail.com
-Bett: enockbett427@gmail.com -->
+Bett: enockbett427@gmail.com
 
 # Flask RESTful API for a Simple Blog
 
